@@ -9,5 +9,9 @@ Here, I will try to explain in detail everything I have had to do.
 * The list of required R packages is found here: https://github.com/alan-turing-institute/das-public/blob/master/install.R
 
 I used to have Anaconda on my laptop, but I decided I wanted to use plan Python for this project. 
-I uninstalled Anaconda, and then installed the most recent Python version. 
+I uninstalled Anaconda, and then installed the most recent Python version (currently 3.9.6).
+
+Next, I pip installed all the required packages listed here: https://github.com/alan-turing-institute/das-public/blob/master/requirements.txt .
+
+
 
