@@ -13,5 +13,9 @@ I uninstalled Anaconda, and then installed the most recent Python version (curre
 
 Next, I pip installed all the required packages listed here: https://github.com/alan-turing-institute/das-public/blob/master/requirements.txt .
 
+At this point, it seemed like I had everything needed to start reproducing the code.
 
+So I cloned the repo to my GitHub Desktop. 
+
+I tried to run parser_main.py - but I quickly ran into problems with logging. 
 
