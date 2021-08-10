@@ -22,7 +22,7 @@ I tried to run parser_main.py - but I quickly ran into problems with logging.
 ...
 
 Just some quick notes here:
-[] FTP downloads a tar.gz file which needs to be extracted first
-[] In Windows 10, this can be done using this command: https://pureinfotech.com/extract-tar-gz-files-windows-10/
-[] I want to start by creating a small set of articles in a folder called dev_set in DAS_public/dataset
-[] dev_set is created by running sample_dev_set.py --- NOTE: You will need to manually edit line 9 to edit your root folder 
+* FTP downloads a tar.gz file which needs to be extracted first
+* In Windows 10, this can be done using this command: https://pureinfotech.com/extract-tar-gz-files-windows-10/
+* I want to start by creating a small set of articles in a folder called dev_set in DAS_public/dataset
+* dev_set is created by running sample_dev_set.py --- NOTE: You will need to manually edit line 9 to edit your root folder 
