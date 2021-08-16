@@ -37,3 +37,6 @@ Now some notes on MongoDB:
 4. Connect to the mongod service you are running by specifying:
    * hostname: localhost
    * port: 27017   
+
+
+NOTE: If you try to run mongod.exe without first creating the folder where you want to store your data (for instance c:\data\db), MongoDB Compass will not connect properly.
