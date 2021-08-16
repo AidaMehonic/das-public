@@ -26,3 +26,14 @@ Just some quick notes here:
 * In Windows 10, this can be done using this command: https://pureinfotech.com/extract-tar-gz-files-windows-10/
 * I want to start by creating a small set of articles in a folder called dev_set in DAS_public/dataset
 * dev_set is created by running sample_dev_set.py --- NOTE: You will need to manually edit line 9 to edit your root folder 
+
+...
+
+Now some notes on MongoDB:
+
+1. You need to first run MongoDB. In the Windows Command Prompt, you would do this by typing the command: mongod.exe "--dbpath c:\data\db". 
+2. Do make sure that the folder c:\data\db already exists before you run the command.
+3. After mongod.exe has run successfully, open MongoDB Compass.
+4. Connect to the mongod service you are running by specifying:
+   * hostname: localhost
+   * port: 27017   
