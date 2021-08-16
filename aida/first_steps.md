@@ -40,3 +40,7 @@ Now some notes on MongoDB:
 
 
 NOTE: If you try to run mongod.exe without first creating the folder where you want to store your data (for instance c:\data\db), MongoDB Compass will not connect properly.
+
+...
+
+You need to have MongoDB running before you can run parser_main.py. 
