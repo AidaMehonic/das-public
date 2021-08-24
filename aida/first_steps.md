@@ -47,6 +47,8 @@ You need to have MongoDB running before you can run parser_main.py.
 
 ...
 
-Python Editor choice:
-* I decided to use VS Code (https://code.visualstudio.com/).
+Some other choices I made:
+* I am using VS Code as my Python Editor (https://code.visualstudio.com/).
+* I am using git for version control (https://git-scm.com/).
+
 
