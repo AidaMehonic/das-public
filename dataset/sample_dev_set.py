@@ -6,7 +6,7 @@ __author__ = """Giovanni Colavizza"""
 import os, random, shutil
 
 n_to_sample = 1000 # how many files to keep
-root_folder = "ADD_YOURS_HERE" # root of PMC
+root_folder = "ADD_YOURS_HERE" # root of PMC #syntax hint: root_folder='C:/.../data'
 destination = "dev_set" # folder where to store dev set
 
 # cleanup and make fresh dev_set
